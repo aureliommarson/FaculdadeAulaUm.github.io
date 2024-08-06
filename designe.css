@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 6%;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    line-height: 30pt;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    line-height: 30pt;
+    font-size: 20px;
+    text-align: justify;
+}
+
+figure{
+    text-align: center;
+    left: 50%;
+    right: 50%;
+    bottom: 70%;
+   pointer-events: none;
+}
+
+figcaption{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 50px;
+}
