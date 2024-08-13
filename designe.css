@@ -26,9 +26,9 @@ p1,p2,p3,p4{
 }
 
 .textoo{
-    width: 50%;
-    left: 40%;
-    text-align: justify;
+    width: auto;
+    padding: 0 25rem;
+    text-align: center;
     display: flex;
     flex-direction: column;
 }
