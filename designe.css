@@ -1,35 +1,53 @@
 body{
     background-color: antiquewhite;
-    margin: 0;
-    padding: 6%;
+    padding: 2%;
+    text-align: center;
+    align-items: center;
 }
 
 h1{
     text-align: center;
     color: purple;
+    background-color: rgb(255, 247, 138);
     line-height: 30pt;
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 1.2rem;
 }
 
-p1{
+p1,p2,p3,p4{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: black;
-    line-height: 30pt;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
+   
 }
+
+.textoo{
+    width: 50%;
+    left: 40%;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+
 
 figure{
     text-align: center;
-    left: 50%;
-    right: 50%;
-    bottom: 70%;
-   pointer-events: none;
+    
+    
 }
 
 figcaption{
     color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 50px;
+    
+}
+
+.link{
+    line-height: 30px;
+    font-size: 30px;
 }
