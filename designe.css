@@ -47,7 +47,25 @@ figcaption{
     
 }
 
+.botao_saiba{
+    padding: 20px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
+
 .link{
     line-height: 30px;
     font-size: 30px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
+
+.botao_voltar_inicio{
+    padding: 20px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
 }
